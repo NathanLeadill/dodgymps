@@ -132,6 +132,42 @@
 				<td>Conservative</td>
 				<td>Breaking his own laws</td>
 			</tr>
+			<tr>
+				<td>Councillor Brett Rosehill</td>
+				<td>Borehamwood Kenilworth</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Glenn Briski</td>
+				<td>Brookmeadow</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Paul Morris</td>
+				<td>Bushey Heath</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Morris Bright</td>
+				<td>Bushey Heath</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Glenn Briski</td>
+				<td>Brookmeadow</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Ben Elliot</td>
+				<td>Chairman</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign | Cash for Honours</td>
+			</tr>
 		</tbody>
 	</table>
 </section>
@@ -179,6 +215,7 @@
 	th,
 	td {
 		border: 1px solid black;
+		padding: 5px;
 	}
 	@media only screen and (max-width: 760px),
 		(min-device-width: 768px) and (max-device-width: 1024px) {
