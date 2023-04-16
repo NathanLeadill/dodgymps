@@ -13,7 +13,7 @@
 				>Ok-Ranger-8016</a
 			>
 		</p>
-		<a href="/report">Submit an information report</a>
+		<!-- <a href="/report">Submit an information report</a> -->
 	</footer>
 </div>
 

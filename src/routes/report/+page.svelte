@@ -1,4 +1,4 @@
-<form name="information-report" method="POST" data-netlify="true">
+<form name="information-report" method="post" data-netlify="true">
 	<label for="name">Offender Name</label>
 	<input type="text" name="name" />
 
