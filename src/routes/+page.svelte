@@ -147,9 +147,6 @@
 		margin-top: 35px;
 		text-align: center;
 	}
-	table tbody tr td {
-		padding: 5px 25px;
-	}
 
 	.welcome img {
 		position: absolute;
@@ -157,5 +154,74 @@
 		height: 100%;
 		top: 0;
 		display: block;
+	}
+
+	/*
+	Max width before this PARTICULAR table gets nasty. This query will take effect for any screen smaller than 760px and also iPads specifically.
+	*/
+	table {
+		border-collapse: collapse;
+	}
+
+	table,
+	th,
+	td {
+		border: 1px solid black;
+	}
+	@media only screen and (max-width: 760px),
+		(min-device-width: 768px) and (max-device-width: 1024px) {
+		table {
+			width: 100%;
+		}
+		table,
+		thead,
+		tbody,
+		th,
+		td,
+		tr {
+			display: block;
+		}
+		thead tr {
+			position: absolute;
+			top: -9999px;
+			left: -9999px;
+		}
+
+		tr {
+			margin: 0 0 1rem 0;
+		}
+
+		tr:nth-child(odd) {
+			background: #ccc;
+		}
+
+		td {
+			border: none;
+			border-bottom: 1px solid #eee;
+			position: relative;
+			padding-left: 50%;
+		}
+
+		td:before {
+			position: absolute;
+			top: 0;
+			left: 6px;
+			width: 45%;
+			padding-right: 10px;
+			white-space: nowrap;
+		}
+
+		td:nth-of-type(1):before {
+			content: 'MP Name';
+		}
+		td:nth-of-type(2):before {
+			content: 'MP Constituency';
+		}
+		td:nth-of-type(3):before {
+			content: 'MP Party';
+		}
+		td:nth-of-type(4):before {
+			content: 'Allegations';
+		}
 	}
 </style>
