@@ -120,6 +120,18 @@
 				<td>Labour</td>
 				<td>Racism</td>
 			</tr>
+			<tr>
+				<td>Michelle Mone</td>
+				<td>House Of Lords | Life Peer</td>
+				<td>Conservative</td>
+				<td>Stealing £122 million</td>
+			</tr>
+			<tr>
+				<td>Boris Johnson</td>
+				<td>Prime Minister</td>
+				<td>Conservative</td>
+				<td>Breaking his own laws</td>
+			</tr>
 		</tbody>
 	</table>
 </section>
