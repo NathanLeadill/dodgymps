@@ -24,4 +24,54 @@
 	<li>
 		Councillor Richard Bingley - Plymouth - Conservative - Cutting down 110 trees in the city centre
 	</li>
+
+	<h1>table testing</h1>
+	<table>
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Constituency</th>
+				<th>Party</th>
+				<th>Allegations</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Councillor Brett Rosehill</td>
+				<td>Borehamwood Kenilworth</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Glenn Briski</td>
+				<td>Brookmeadow</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Paul Morris</td>
+				<td>Bushey Heath</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Morris Bright</td>
+				<td>Bushey Heath</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Glenn Briski</td>
+				<td>Brookmeadow</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign</td>
+			</tr>
+			<tr>
+				<td>Councillor Ben Elliot</td>
+				<td>Chairman</td>
+				<td>Conservative</td>
+				<td>Anti-semetic hate campaign | Cash for Honours</td>
+			</tr>
+		</tbody>
+	</table>
 </ul>
