@@ -17,32 +17,111 @@
 	>
 </section>
 <sub>Notice which party is full of people who commit sexual offences...</sub>
+
+<h3>MPs that have been suspended</h3>
 <section>
-	<h1>MPs who have been suspended by their party.</h1>
-	<ul>
-		<li>Scott Benton - Blackpool South - Conservative - Lobbying</li>
-		<li>Chris Pincher - Tamworth - Conservative - Sexual Misconduct</li>
-		<li>Rob Roberts - Delyn - Conservative - Sexual Harrasment</li>
-		<li>Charlie Elphicke - Dover - Conservative - Sexual Assault</li>
-		<li>Neil Parish - Tiverton and Honiton - Conservative - Watching Porn In the Commons</li>
-		<li>
-			Un-named Senior Tory MP - Unknown - Conservative - 4x Spiking & Sexual Assault -
-			<br />https://www.mirror.co.uk/news/politics/top-tory-mp-faces-drink-27030008
-		</li>
-		<li>
-			Un-named Tory MP - Unknown - Conservative - Rape x 4 -
-			<br
-			/>https://www.standard.co.uk/news/politics/tory-mp-rape-arrest-bail-court-metropolitan-police-b1070244.html
-		</li>
-		<li>David Warburton - Somerset and Frome - Conservative - Sexual Harrasment & Cocaine</li>
-		<li>Imran Ahmad Khan - Wakefield - Conservative - Child Sexual Assault</li>
-		<li>Jeremy Corbyn - Islington North - Labour - Anti-Semitism</li>
-		<li>Mike Hill - Hartlepool - Labour - Sexual Assault</li>
-		<li>Rupa Huq - Ealing Central - Labour - Racism</li>
-		<li>Claudia Webb - Leicester East - Labour - Harrasment</li>
-		<li>Christina Rees - Neath - Labour - Bullying</li>
-		<li>Neil Coyle - Bermondsey and Old Southwark - Labour - Racism</li>
-	</ul>
+	<table>
+		<thead>
+			<tr>
+				<th>MP Name</th>
+				<th>MP Constituency</th>
+				<th>MP Party</th>
+				<th>Allegations</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Scott Benton</td>
+				<td>Blackpool South</td>
+				<td>Conservative</td>
+				<td>Lobbying</td>
+			</tr>
+			<tr>
+				<td>Chris Pincher</td>
+				<td>Tamworth</td>
+				<td>Conservative</td>
+				<td>Sexual Misconduct</td>
+			</tr>
+			<tr>
+				<td>Rob Roberts</td>
+				<td>Delyn</td>
+				<td>Conservative</td>
+				<td>Sexual Harrasment</td>
+			</tr>
+			<tr>
+				<td>Charlie Elphicke</td>
+				<td>Dover</td>
+				<td>Conservative</td>
+				<td>Sexual Assault</td>
+			</tr>
+			<tr>
+				<td>Neil Parish</td>
+				<td>Tiverton and Honiton</td>
+				<td>Conservative</td>
+				<td>Watching porn in the commons</td>
+			</tr>
+			<tr>
+				<td>Un-named Senior Tory MP</td>
+				<td>Unknown</td>
+				<td>Conservative</td>
+				<td>4x Spiking & Sexual Assault</td>
+			</tr>
+			<tr>
+				<td>Un-named Tory MP</td>
+				<td>Unknown</td>
+				<td>Conservative</td>
+				<td>4 x Rape</td>
+			</tr>
+			<tr>
+				<td>David Warburton</td>
+				<td>Somerset and Frome</td>
+				<td>Conservative</td>
+				<td>Sexual Harrasment & Cocaine</td>
+			</tr>
+			<tr>
+				<td>Imran Ahmad Khan</td>
+				<td>Wakefield</td>
+				<td>Conservative</td>
+				<td>Child Sexual Assault</td>
+			</tr>
+			<tr>
+				<td>Jeremy Corbyn</td>
+				<td>Islington North</td>
+				<td>Labour</td>
+				<td>Anti-Semitism</td>
+			</tr>
+			<tr>
+				<td>Mike Hill</td>
+				<td>Hartlepool</td>
+				<td>Labour</td>
+				<td>Sexual Assault</td>
+			</tr>
+			<tr>
+				<td>Rupa Huq</td>
+				<td>Ealing Central</td>
+				<td>Labour</td>
+				<td>Racism</td>
+			</tr>
+			<tr>
+				<td>Claudia Webb</td>
+				<td>Leicester East</td>
+				<td>Labour</td>
+				<td>Harrassment</td>
+			</tr>
+			<tr>
+				<td>Christina Rees</td>
+				<td>Neath</td>
+				<td>Labour</td>
+				<td>Bullying</td>
+			</tr>
+			<tr>
+				<td>Neil Coyle</td>
+				<td>Bermondsey and Old Southwark</td>
+				<td>Labour</td>
+				<td>Racism</td>
+			</tr>
+		</tbody>
+	</table>
 </section>
 
 <p>
@@ -64,12 +143,12 @@
 		width: 100%;
 	}
 
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
+	h3 {
+		margin-top: 35px;
+		text-align: center;
+	}
+	table tbody tr td {
+		padding: 5px 25px;
 	}
 
 	.welcome img {
