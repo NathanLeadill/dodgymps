@@ -8,7 +8,11 @@
 	</main>
 
 	<footer>
-		<p>Developed and Managed by Nathan</p>
+		<p>
+			Developed and Managed by <a href="https://www.reddit.com/user/Ok-Ranger-8016"
+				>Ok-Ranger-8016</a
+			>
+		</p>
 	</footer>
 </div>
 
