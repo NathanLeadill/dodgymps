@@ -45,6 +45,12 @@
 	</ul>
 </section>
 
+<p>
+	I'm working on creating a page for councillors so you can make sure your local elections vote
+	isn't wasted also.
+</p>
+<a href="/councillors">Councillors</a>
+
 <style>
 	section {
 		display: flex;
