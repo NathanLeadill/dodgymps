@@ -16,8 +16,6 @@
 		information report.</sub
 	>
 </section>
-<sub>Notice which party is full of people who commit sexual offences...</sub>
-
 <h3>MPs that have been suspended</h3>
 <section>
 	<table>
@@ -61,13 +59,13 @@
 				<td>Watching porn in the commons</td>
 			</tr>
 			<tr>
-				<td>Un-named Senior Tory MP</td>
+				<td>Un-named Senior MP</td>
 				<td>Unknown</td>
 				<td>Conservative</td>
 				<td>4x Spiking & Sexual Assault</td>
 			</tr>
 			<tr>
-				<td>Un-named Tory MP</td>
+				<td>Un-named MP</td>
 				<td>Unknown</td>
 				<td>Conservative</td>
 				<td>4 x Rape</td>
