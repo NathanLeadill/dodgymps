@@ -16,7 +16,8 @@
 		information report.</sub
 	>
 </section>
-<h3>MPs that have been suspended</h3>
+<h3>MPs that have been had allegations made against them</h3>
+<p class="center">Colour coding coming soon</p>
 <section>
 	<table>
 		<thead>
@@ -83,6 +84,12 @@
 				<td>Child Sexual Assault</td>
 			</tr>
 			<tr>
+				<td>Boris Johnson</td>
+				<td>Prime Minister</td>
+				<td>Conservative</td>
+				<td>Breaking his own laws</td>
+			</tr>
+			<tr>
 				<td>Jeremy Corbyn</td>
 				<td>Islington North</td>
 				<td>Labour</td>
@@ -118,18 +125,6 @@
 				<td>Labour</td>
 				<td>Racism</td>
 			</tr>
-			<tr>
-				<td>Michelle Mone</td>
-				<td>House Of Lords | Life Peer</td>
-				<td>Conservative</td>
-				<td>Stealing £122 million</td>
-			</tr>
-			<tr>
-				<td>Boris Johnson</td>
-				<td>Prime Minister</td>
-				<td>Conservative</td>
-				<td>Breaking his own laws</td>
-			</tr>
 		</tbody>
 	</table>
 </section>
@@ -139,6 +134,7 @@
 	isn't wasted also.
 </p>
 <a href="/councillors">Councillors</a>
+<a href="/house-of-lords">House of Lords</a>
 
 <style>
 	section {
@@ -178,6 +174,9 @@
 	td {
 		border: 1px solid black;
 		padding: 5px;
+	}
+	p.center {
+		text-align: center;
 	}
 	@media only screen and (max-width: 760px),
 		(min-device-width: 768px) and (max-device-width: 1024px) {
